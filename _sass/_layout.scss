@@ -1,10 +1,9 @@
 /**
  * Site header
  */
-.site-header {
+.site__header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    padding: 30px 0;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -22,6 +21,13 @@
     &:visited {
         color: $grey-color-dark;
     }
+}
+
+.well {
+    background-color: #eee;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
 }
 
 .site-nav {
