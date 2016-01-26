@@ -1,32 +1,21 @@
 ---
 layout: post
-title:  "#001 Catch up"
-date:   2015-11-26 21:02:54 +0000
-categories: jekyll update
+title:  "A look forward to #002"
+date:   2016-01-26 21:02:54 +0000
+categories: update
 author: "Craig"
 ---
-So that's the first ever Turbo Hackers event done.
+_I've just made the Eventbrite page for the next event on February 18<sup>th</sup>, so [please go grab a ticket][1] if you're planning on coming._
 
-Around 12 of us met up at the DMC in Barnsley on a cold night in November and tried to organise ourselves into how we're going to work together in the future. 
+----
 
-A first event like this is always hard, because we've got to first work out some projects. We spent a lot of time chatting about what projects we could work on together, and how we'd work on them together with each other. We settled on Trello, and our <a href="https://trello.com/b/a2CoupwM/projects">projects board is public</a>.
+Our first event feels like it was _ages_ ago now, and that's because it kind of _was_. We had to skip having an event in January as there was a couple of other events and hack days that clashed with me organising it, so our next event is [February 18<sup>th</sup> from 18:00][1].
 
-Some people asked me how I see this all working in the future. Should we all have to work on projects together, or can people come down and work on projects themselves? The truthful answer is I'm not sure. I don't see this all being as _my_ thing, I see it as being everybody's who comes down. All I'm doing is organising a room (and pizzas) for people.
+I didn't get the chance to run the first event with much lead time, but this time there's a good 3 weeks before the event, so there's plenty of time to make sure you come down and check out what we're about.
 
-I want anybody to come down who wants to work on their project with a bunch of other cool people. So whether they want to work on their own project, want to come down and just chat, or want to find projects they can get involved with, I want everybody to come down and get involved.
+And what is it that we're about _exactly_ I hear you ask? Well, it's a bit like a mini hack day that only lasts for 3 hours. We've got a big [Trello board full of ideas][2] and I'm keen to get stuck in with some of it.
 
-I hope everybody enjoyed what we're trying to do. There wasn't much hacking done in the first event, but I hope I can get everybody back next time to make some cool stuff.
+I'm really excited about this event, and I hope you are too. Hopefully I'll see you in a few weeks.
 
-You can <a href="http://twitter.com/turbohackers">follow us on Twitter</a> (although Twitter have decided to block it so I can't do anything with it), and also <a href="http://twitter.com/craigburgess">I'm on Twitter</a> too.
-
-Some other topics discussed:
-
-- Racism
-- Sexism
-- The fact they don't like the Turbo Hackers name
-- Windows laptops
-- MacBooks
-- The iPad Pro
-- Asset Management Systems (we started to run out of stuff to talk about)
-- How we'll work together
-- How we'll use Trello
+[1]:https://www.eventbrite.co.uk/e/turbo-hackers-002-tickets-21044306086
+[2]:https://trello.com/b/a2CoupwM/turbo-hackers-projects

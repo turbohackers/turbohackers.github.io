@@ -44,6 +44,12 @@ $on-laptop:        800px;
 }
 
 
+hr {
+    margin-bottom: 20px !important;
+    border: 0;
+    border-bottom: 1px dashed black;
+    margin-top: 20px !important;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
