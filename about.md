@@ -25,7 +25,7 @@ Even though I organise the event, it isn't _my thing_. I don't see it like that.
 - [All the local agencies and others people who support us by turning up][6].
 
 [1]:https://twitter.com/craigburgess
-[2]:{% post_url 2015-11-26-001-catch-up %}
+[2]:/2016/01/26/001-catch-up
 [3]:http://barnsleydmc.co.uk
 [4]:http://www.geniusdivision.com
 [5]:http://www.makedo.net/
