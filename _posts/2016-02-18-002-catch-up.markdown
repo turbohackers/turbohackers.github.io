@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "#002 - Catch up"
+categories: update
+author: "Craig"
+---
+_I've just made the Eventbrite page for the next event on March 17<sup>th</sup>, so [please go grab a ticket][6] if you're planning on coming._
+
+----
+
+Tonight was a _really_ interesting meet up and there was some really cool ideas discussed on the whole direction of Turbo Hackers. I’ll get into those shortly, but first a catch up of what we did.
+
+After a 2 month break we got back together tonight to discuss projects and what we’re working on. We started by looking into an app to show you when video games are released as I hadn’t ever found an app that did enough of a good job of this.
+
+After an hour or so of searching and chatting how we’d make the API, website and app somebody discovered [a nice service][1] that did _everything_ I wanted. After that, there wasn’t really much point in pursuing this any further was there?
+
+We then revisited the skills swap idea that’s on our Trello board, and some interesting ways to develop this was put forward. We spoke about tailoring it to students and startups, so students or people learning their craft could find work experience in startups, arguably some of the companies that need help the most and may not be able to afford to hire somebody.
+
+I _definitely_ think there’s something in this idea, we just need to work out what is properly. Some people did some initial work tonight on it (mostly [Lee][2]) to move this idea forward, but it was the talk around exactly what we’ll work on together that got me most interested.
+
+## The Blank Page Syndrome
+
+Towards the end of the evening it was [Matt][3] that mentioned we’re currently suffering from Blank Page Syndrome. Because we’re starting from nothing and I’m trying to get people to work together on a project, it’s _really damn hard_ to pick something. We can do anything, and that’s really hard to choose from.
+
+Matt mentioned the idea that [James][4] and I was chatting about earlier in the day: why don’t we work on projects for worthy causes?
+
+## The Worthy Causes Idea
+
+We could get worthy causes—charities, community groups etc.—to set us a problem or brief that they’re currently facing. They could come down and brief us on the issue, and we’d work on a solution to that problem with the 3 hours we’ve got a month. Maybe it could span across multiple months sometimes, but we’re trying to limit it to smaller projects to just test the idea out first.
+
+We all seemed to like this idea, and I really like the idea. At the minute I’ve got _no idea_ on what worthy cause we could attract, but I’m going to spend a couple of weeks researching this before our next event to see what I can find out.
+
+If you know of a perfect cause that maybe we could tackle, please get [in touch with me][5]. I’m really excited to give this a try and see what we can come up with.
+
+[1]:http://www.rescover.com/
+[2]:http://twitter.com/lsr1981
+[3]:http://twitter.com/mattbrailsford
+[4]:http://twitter.com/shrff
+[5]:http://twitter.com/craigburgess
+[6]:https://www.eventbrite.co.uk/e/turbo-hackers-003-tickets-21790612308

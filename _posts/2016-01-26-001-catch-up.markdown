@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "#001 Catch up"
+title:  "#001 - Catch up"
 date:   2015-11-26 21:02:54 +0000
-categories: jekyll update
+categories: update
 author: "Craig"
 ---
 So that's the first ever Turbo Hackers event done.
